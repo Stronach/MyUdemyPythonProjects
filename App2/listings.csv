@@ -1,1 +1,7 @@
-﻿LISTING #,TYPE,STATUS,LISTING PRICE,ADDRESS,MAILING TOWNSHIP,MAILING ZIPCODE,STATE,#BEDS,#BATHS (full/half),SQUART FOOTAGE,LOT SIZE - ACRES,LAT,LON111199,Single-family Residential,active,"$299,900 ",445 Holmesville Hill Road,South New Berlin,13843,NY,5,"3 (3,0)",5600,17.35,,110520,Single-family Residential,active,"$134,900 ",302 Balcom Hill Rd.,Columbus,13460,NY,3,"2 (2,0)",1344,8.75,,113702,Single-family Residential,contingent / under contract,"$119,900 ",548 Holmesville Hill Rd,South New Berlin,13843,NY,3,"2 (2,0)",1900,2.08,,113604,Land,active,"$124,900 ",420 Hakes Calhoun Rd,Pitcher,13136,NY,,,,100,,112831,Multi-Family Residential,active,"$99,900 ",11 State St,Oxford,13830,NY,5,"2 (2,0)",2136,0.18,,112208,Commercial,pending / under contract,"$89,900 ",1605 State Hwy 26,South Otselic,13155,NY,2,"4 (2,2)",5380,0.15,,
+LISTING #,TYPE,STATUS,LISTING PRICE,ADDRESS,MAILING TOWNSHIP,MAILING ZIPCODE,STATE,#BEDS,#BATHS (full/half),SQUART FOOTAGE,LOT SIZE - ACRES,LAT,LON
+111199,“””Single-family Residential”””,active,"$299,900 ",445 Holmesville Hill Road,South New Berlin,13843,NY,5,"3 (3,0)",5600,17.35,,
+110520,“””Single-family Residential”””,active,"$134,900 ",302 Balcom Hill Rd.,Columbus,13460,NY,3,"2 (2,0)",1344,8.75,,
+113702,“””Single-family Residential”””,contingent / under contract,"$119,900 ",548 Holmesville Hill Rd,South New Berlin,13843,NY,3,"2 (2,0)",1900,2.08,,
+113604,“””Land”””,active,"$124,900 ",420 Hakes Calhoun Rd,Pitcher,13136,NY,,,,100,,
+112831,“””Multi-Family Residential”””,active,"$99,900 ",11 State St,Oxford,13830,NY,5,"2 (2,0)",2136,0.18,,
+112208,“””Commercial”””,pending / under contract,"$89,900 ",1605 State Highway 26,South Otselic,13155,NY,2,"4 (2,2)",5380,0.15,,
