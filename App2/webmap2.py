@@ -22,12 +22,12 @@ fg = folium.FeatureGroup(name="My Map")
 print(n)
 map = folium.Map(location =[43,-75], zoom_start=7)
 for lt in n:
-    if data.Cordinates is "None":
+    if data.Cordinates is None:
         data["Address"] = data["ADDRESS"]+", "+ data["MAILING ZIPCODE"] +", "+ data["STATE"]
         data["Cordinates"]=data["Address"].apply(nom.geocode).apply(lambda x: eval_results(x))
         #print(data["LAT"])
-#    for lt, ln in zip(lat,lon):
-    fg.add_child(folium.Marker(location = list(data.Cordinates), popup="""listing """+list(str(listings), icon=folium.Icon('green')))
+    for lt in zip(n):
+        fg.add_child(folium.Marker(location = n, popup="""listing """+str(listing), icon=folium.Icon('green')))
 
 #lat = list(data["LAT"])
 #lon = list(data["LON"])
